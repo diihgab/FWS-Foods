@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./public/logo.png" alt="Logo do Projeto">
+  <img src="./public/Logo.png" alt="Logo do Projeto">
 </h1>
 
 ## <img src="https://em-content.zobj.net/source/apple/391/page-with-curl_1f4c3.png" height="24px" /> Roteiro
